@@ -1,0 +1,41 @@
+Project compiling success
+Cached file (data/range_array_120bin.dat) found...File succesfully loaded!
+
+Running the RMSE test
+Run 1/15	RMSE: 34.452555957979854
+Run 2/15	RMSE: 24.134096612429236
+Run 3/15	RMSE: 29.14440873417563
+Run 4/15	RMSE: 80.73146255565999
+Run 5/15	RMSE: 34.550975936860716
+Run 6/15	RMSE: 34.50096592889474
+Run 7/15	RMSE: 24.380400934049526
+Run 8/15	RMSE: 22.02123137984346
+Run 9/15	RMSE: 9.728220496525719
+Run 10/15	RMSE: 23.17309738300791
+Run 11/15	RMSE: 23.51920453071851
+Run 12/15	RMSE: 55.18612177888833
+Run 13/15	RMSE: 9.733896807821406
+Run 14/15	RMSE: 23.430994939770965
+Run 15/15	RMSE: 18.102282605803655
+The best RMSE score: 9.728220496525719
+RMSE: 9.728220 (passed the RMSE test)
+
+Running testExpNormalize
+testExpNormalize passed
+
+Running testUpdatePose
+testUpdatePose passed
+
+Running testUpdateWeight
+Cached file (data/range_array_120bin.dat) found...File succesfully loaded!
+testUpdateWeight passed
+
+Running testMultinomialSampling
+testMultinomialSampling passed
+
+Q1 grade: 5.0/6 (# of tests: 4, Pass: 4, Fail: 0, RMSE score: 1.0)
+
+Q2 grade: 4.0/4
+
+Manual checking (true: necessary, false: unnecessary) = 
+false
